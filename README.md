@@ -59,10 +59,35 @@ A	98%	12 000+ samples, deep 1D-CNN on MFCC/ZCR/RMS
 B	95%+	Transformer NLP on speech transcripts
 C	93%	600 clean spectrograms, 2D-CNN, no augmentation
 
-<details> <summary>🎥 Live Demo & GIFs</summary>
+### 🎥 Live Demo and Graphs and Matrix
 
+<img width="815" alt="image" src="https://github.com/user-attachments/assets/e68230e8-8df0-4c9d-82b6-8c9d9908fd3c" />
 
-</details>
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/b69023fc-4dd1-4b78-9a14-1267f4ea8d80" />
+
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/9f293dcd-e5f4-40e2-9f21-d14a1e6c7a0c" />
+
+<img width="859" alt="image" src="https://github.com/user-attachments/assets/0d6b0e09-e91c-413c-820f-400f54b6f54f" />
+
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/91293081-7dfa-4fd4-bc98-81e5ed727733" />
+
+![image](https://github.com/user-attachments/assets/29051cab-b5f0-492f-a5d7-e2dca845b59d)
+
+![image](https://github.com/user-attachments/assets/5e3aa4b1-efdb-418c-861e-015e6e5bcdd0)
+
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/b387229a-7c57-418f-8f11-baf4a6e42200" />
+
+![image](https://github.com/user-attachments/assets/929db5ac-d3c1-429b-aef2-efce8ffa121f)
+
+![image](https://github.com/user-attachments/assets/dd46e9d2-f5d6-4fc4-8b67-66904094dc05)
+
+![image](https://github.com/user-attachments/assets/594489b4-be49-41fd-8d49-a3b9add42c65)
+
+![image](https://github.com/user-attachments/assets/46f22b2e-5823-4ff5-b1f4-cc46c58f188c)
+
+![image](https://github.com/user-attachments/assets/80fa763e-eb42-4382-9f7e-69d144d85649)
+
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/f860a538-c74b-4106-ac1c-b8d6a5f7561a" />
 
 ## 📓 Colab Notebooks
 
@@ -88,7 +113,7 @@ Use my GitHub Releases (v1–v6) to fetch Parquet files, pretrained weights, enc
 
 ### 🛠️ Installation & Quick Start
  ```bash
-git clone https://github.com/yourusername/audio-emotion-recognition.git
+git clone https://github.com/ReemOoka/audio-emotion-recognition.git
 cd audio-emotion-recognition
  ```
 
